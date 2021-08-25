@@ -15,6 +15,7 @@
    - json
    - requests
    - urllib
+   - textblob
    - **For the paraphraser**:
      - sentence-splitter
      - transformers

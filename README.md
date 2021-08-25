@@ -5,6 +5,7 @@
   Repository to store the files produced during the WebScrapping internship and their versions
  
  ## Prerequisites
+   - **Python3.8 at least**
    - deep-translator (GoogleTranslator included here)
    - selenium
    - bs4 (BeautifulSoup)

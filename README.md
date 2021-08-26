@@ -41,6 +41,8 @@
   
   - If you still get the CPU as **torch_device**, copy the path of the binary files for the CUDA toolkit and paste it as parameter in the **os.add_dll_directory()** in the **pegasus_paraphrase.py** file (in my version of the code, I have my **bin** folder under "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.4/" follow that example and replace it with your own path)
 
+  - Side note: The model used in the script needs at least 6Gb of RAM/VRAM to be loaded and used
+
    
 ## Contact
    - Mohamed Amine Aljane;
